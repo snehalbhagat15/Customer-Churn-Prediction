@@ -1,4 +1,4 @@
-# 📉 Customer Churn Prediction Using Machine Learning
+#  Customer Churn Prediction Using Machine Learning
 
 This project aims to predict whether a customer will churn (leave a service) using supervised machine learning techniques. We used a telecom customer dataset and applied data preprocessing, exploratory analysis, and classification modeling to predict customer churn effectively.
 
@@ -10,7 +10,7 @@ Customer churn is a major problem in many industries. By identifying customers w
 
 ---
 
-## 🔍 Tools & Libraries Used
+##  Tools & Libraries Used
 
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
@@ -18,7 +18,7 @@ Customer churn is a major problem in many industries. By identifying customers w
 
 ---
 
-## 📊 Model Evaluation
+##  Model Evaluation
 
 - **Accuracy:** 78.99%
 - **Classification Report:**
@@ -33,7 +33,7 @@ Customer churn is a major problem in many industries. By identifying customers w
 
 ---
 
-## 📌 Key Highlights
+##  Key Highlights
 
 - Handled missing values and categorical features
 - Applied label encoding and feature scaling
@@ -42,7 +42,7 @@ Customer churn is a major problem in many industries. By identifying customers w
 
 ---
 
-## 📈 Future Improvements
+##  Future Improvements
 
 - Try advanced models like XGBoost or LightGBM
 - Hyperparameter tuning using GridSearchCV
@@ -50,7 +50,7 @@ Customer churn is a major problem in many industries. By identifying customers w
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repo or download the notebook
 2. Install dependencies
@@ -58,4 +58,5 @@ Customer churn is a major problem in many industries. By identifying customers w
 4. Run cells sequentially
 
 ---
+
 
